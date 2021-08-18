@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
+
+.image_1 {
+    margin-top: 2em;
+    width: 8em;
+    height: 10rem;
+    border-radius: 20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image_2 {
+    width: 9em;
+    height: 10rem;
+    border-radius:20%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.name {
+    font-size: 40px;
+    color: black;
+    margin-top: -1.5rem;
+    text-align: center;
+}
+
+.dev {
+    font-size: 30px;
+    color: black;
+    margin-top: -2rem;
+    text-align: center;
+}
+
+.devs {
+    font-size: 30px;
+    color: black;
+    /* margin-top: -2rem; */
+    text-align: center;
+}
+
+.para {
+    font-size: 1rem;
+}
+
+.container {
+    margin-left: 2rem;
+}
